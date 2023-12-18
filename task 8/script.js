@@ -11,7 +11,7 @@ function send(event) {
 
     // Создаем новый запрос
     let request = new XMLHttpRequest();
-    request.open("POST", "https://formcarry.com/s/LTM_tPRuTd");
+    request.open("POST", "https://formcarry.com/s/5O9Cg5YXgR");
     request.setRequestHeader("ACCEPT", "application/json");
 
     // Заполняем данные
